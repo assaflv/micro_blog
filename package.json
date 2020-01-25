@@ -1,0 +1,27 @@
+{
+  "name": "microblog",
+  "version": "1.0.0",
+  "description": "microblog",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/assaflv/micro_blog.git"
+  },
+  "keywords": [
+    "microblog"
+  ],
+  "author": "Assaf Levy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/assaflv/micro_blog/issues"
+  },
+  "homepage": "https://github.com/assaflv/micro_blog#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.8.9"
+  }
+}
